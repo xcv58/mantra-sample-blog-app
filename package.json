@@ -20,8 +20,11 @@
     "enzyme": "1.x.x",
     "eslint": "1.10.x",
     "eslint-plugin-react": "3.15.x",
+    "material-ui": "^0.14.4",
     "mocha": "2.x.x",
+    "react": "^0.14.7",
     "react-addons-test-utils": "^0.14.6",
+    "react-tap-event-plugin": "^0.2.2",
     "sinon": "1.17.x"
   },
   "dependencies": {
